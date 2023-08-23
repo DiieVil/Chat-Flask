@@ -1,0 +1,5 @@
+Flask
+Flask-Session
+Flask-SocketIO
+python-dateutil
+poli.png (incluido en static)
